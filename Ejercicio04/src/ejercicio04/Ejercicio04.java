@@ -2,7 +2,7 @@
 package ejercicio04;
 public class Ejercicio04 {
     public static void main(String[] args) {
-        // TODO code application logic here
+        // Resolucion al problema//
         int var1 = 20;
         int var2 = 1;
         int var3 = 3;

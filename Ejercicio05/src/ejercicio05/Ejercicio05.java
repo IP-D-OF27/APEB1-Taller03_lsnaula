@@ -1,7 +1,7 @@
 package ejercicio05;
 public class Ejercicio05 {
     public static void main(String[] args) {
-        // TODO code application logic here
+        // Resolucion al probelma//
         int var1 = 2;
         int var2 = 2;
         int var3 = 12;
